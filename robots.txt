@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://fsotracki.github.io/sitemap.html.gz
+Sitemap: https://fsotracki.github.io/app/sitemap.html.gz
+Sitemap: https://fsotracki.github.io/assets/sitemap.html.gz
+Sitemap: https://fsotracki.github.io/css/sitemap.html.gz
+Sitemap: https://fsotracki.github.io/includes/sitemap.html.gz
+Sitemap: https://fsotracki.github.io/item/sitemap.html.gz
+Sitemap: https://fsotracki.github.io/src/sitemap.html.gz
